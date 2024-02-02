@@ -1,0 +1,71 @@
+.dashboard{
+    display: flex;
+    margin-top: 125px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 5px;
+    background-color: #1f2124a0;
+    width: 500px;
+    height: 1000px;
+    border-radius: 10px;
+}
+.spotify_ban{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.spotify{
+    margin-left: 15px;
+}
+
+.logo{
+    width: 25px;
+    height: 25px;
+    margin: 15px;
+}
+
+hr{
+    width: 95%;
+    margin-top: 20px;
+    border: 1px solid #1f2124a0;
+}
+
+.newsimage{
+    margin-left: 15px;
+    margin-top: 15px;  
+    margin-right: 15px;
+    width: 450px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.meteo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.meteoimage{
+    width:100px;
+    height: 100px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h2{
+    color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.icon{
+    margin-left:200px;
+    height: 30px;
+    width: 30px;
+    color: aliceblue;
+}
