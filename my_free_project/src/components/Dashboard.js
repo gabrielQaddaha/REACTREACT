@@ -3,7 +3,7 @@ import "./../css/dashboard.css";
 import Stack from "react-bootstrap/Stack";
 import Spotify from "./spotify";
 import NewsFeed from "./News";
-import {Weather} from "./Weather";
+import Weather from "./Weather";
 
 const Dashboard = () => {
   return (
