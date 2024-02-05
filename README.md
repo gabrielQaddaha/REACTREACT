@@ -8,7 +8,7 @@ Cette application web React agit comme un tableau de bord personnel, affichant d
 - **Widget Météo** : Affiche la météo actuelle et la température.
 - **Widget Spotify** : S'intègre à Spotify pour montrer la chanson en cours avec des contrôles de lecture.
 - **Widget Actualités** : Agrège les actualités de diverses sources pour des mises à jour rapides.
-- **Widget Profil** : Montre les informations du profil utilisateur.
+- **Widget Profil** : Montre les informations du profil utilisateur. (composent pas encore disponible nos équipes travaillent dessus jours et nuit)
 
 ## Captures d'écran
 ![Vue Complète du Tableau de Bord Personnel](https://github.com/gabrielQaddaha/REACTREACT/assets/115455065/c9515406-7ec9-4fb2-b72e-2cd940389c51)
