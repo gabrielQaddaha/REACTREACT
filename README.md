@@ -22,10 +22,10 @@ Pour lancer l'application sur votre environnement local, suivez ces étapes :
 
 ```bash
 # Cloner le dépôt
-git clone [url-du-dépôt]
+git clone https://github.com/gabrielQaddaha/REACTREACT.git
 
 # Aller dans le répertoire du projet
-cd [nom-du-projet]
+cd REACTREACT/
 
 # Installer les dépendances
 npm install
